@@ -1,2 +1,1 @@
-# pim
-Personal Information Manager
+# Personal Information Manager
